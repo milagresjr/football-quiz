@@ -1,0 +1,16 @@
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    /* padding: 5px 0; */
+    background: #333;
+}
+
+.footer p {
+    text-align: center;
+    text-wrap: wrap;
+}
